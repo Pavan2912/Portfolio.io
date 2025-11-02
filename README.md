@@ -31,8 +31,8 @@
   </section>
 
   <footer>
-    <p>Connect: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | 
-    <a href="mailto:yourmail@example.com">Email</a></p>
+    <p>Connect: <a href="https://www.linkedin.com/in/pavan-kumar-2bb20229a/" target="_blank">LinkedIn</a> | 
+    <a href=">Email</a></p>
   </footer>
 </body>
 </html>
